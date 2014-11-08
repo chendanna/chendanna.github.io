@@ -3,9 +3,9 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "银川熊"
+title: "Ted Coder"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   I Am a Coder - Cuncui De Coder
 
 email: xiong-wei@hotmail.com
 #blog logo
