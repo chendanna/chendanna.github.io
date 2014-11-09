@@ -3,9 +3,10 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Dana Blog"
+title: "Dana's Blog"
 description: > # this means to ignore newlines until "email:"
-   A mountain needn't be high It is famous so long as there is a deity on it.
+   A mountain needn't be high,
+It is famous so long as there is a deity on it.
 
 email: xiong-wei@hotmail.com
 #blog logo
