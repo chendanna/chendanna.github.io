@@ -3,9 +3,11 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Ted Coder"
+title: "Dana Blog"
 description: > # this means to ignore newlines until "email:"
-   I Am a Coder - Cuncui De Coder
+   A mountain needn't be high;
+
+It is famous so long as there is a deity on it.
 
 email: xiong-wei@hotmail.com
 #blog logo
@@ -13,8 +15,8 @@ logo: "/assets/images/panda_logo.png"
 # blog cover
 cover: "/assets/images/header_img.jpg"
 
-name: 'Ted Xiong'
-author: 'Wei Xiong'
+name: 'Danna'
+author: 'Danna Chen'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
@@ -24,12 +26,12 @@ baseurl: ""
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	http://weibo.com/521213101
-    desc: Follow me on Weibo
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+#  - icon:	twitter
+#    url:	http://weibo.com/521213101
+#    desc: Follow me on Weibo
+#    share_url: http://twitter.com/share
+#    share_title: ?text=
+#    share_link: "&amp;url="
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
@@ -39,14 +41,14 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/xiongwei-git
+    url:	https://github.com/chendanna
     desc:	Fork me on github
     share_url:
     share_title:
     share_link:
 
   - icon:	google-plus
-    url:	https://plus.google.com/104141785141574720649/posts
+    url:	https://plus.google.com/u/0/111796302075229377765/posts
     desc:	Add me on google+
     share_url:
     share_title:
