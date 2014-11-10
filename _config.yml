@@ -3,7 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Dana's Blog"
+title: "Danna's Blog"
 description: > # this means to ignore newlines until "email:"
    A mountain needn't be high,It is famous so long as there is a deity on it.
 
