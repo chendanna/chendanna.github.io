@@ -18,4 +18,4 @@ permalink: /about/
 
 
 
-[1]:www.tedcoder.com
+[1]:http://tedcoder.com/
