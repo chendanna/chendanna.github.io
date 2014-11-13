@@ -4,7 +4,7 @@ title:  "百年孤独"
 date:   2014-11-13 11:33:25
 categories: life
 tags: solitude
-image: /assets/article_images/run_softwear/run_page.jpg
+image: /assets/article_images/one-hundred-years-of-solitude.jpg
 ---
 第一次接触`百年孤独`是在高中的语文课上，有一篇文章深深的吸引了我，文章的内容已经忘记了，但是我还清楚的记得老师告诉我们，这是一本现实魔幻主义的小说，当时对现实魔幻主义没有什么概念，但是我还是利用课余时间看了一下这本小说，发现完全不知所云。  
 最近工作不是很忙，前些日子整理书籍的时候，又看到了这本小说，于是又拿出来看了一遍。  
