@@ -4,7 +4,7 @@ title:  "Is everybody lost in 25?"
 date:   2014-12-10 11:33:25
 categories: life
 tags: solitude
-image: /assets/article_images/solitude/one-hundred-years-of-solitude.jpg
+image: /assets/article_images/lost/lost.jpg
 ---
 年轻的时候，我们总是对未知的事情既憧憬又害怕，总是想尝试各种新奇的事物，那是因为我们还年轻。总是觉得未来是无比美好的，只要我们足够的努力，就可以过梦想中的生活。于是岁月就伴随着我们的这些美好憧憬慢慢的从我们身边溜走。
 
